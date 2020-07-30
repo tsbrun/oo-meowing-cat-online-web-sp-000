@@ -1,5 +1,5 @@
 class Cat
-  attr_accessor :name # don't forget to define the instance variable
+  attr_accessor :name # don't forget to ( define? call? set up? ) the instance variable
 
   def meow
     puts "meow!"
